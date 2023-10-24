@@ -1,0 +1,96 @@
+contabilidade (ciencia social e gerencial) -> tomada de decisoes
+
+empresas precisam de administração 
+
+contabilidade geral, o tipo de contabilidade depende do tipo de empresa
+
+A contabilidade foi feita principalmente para o administrador e para todos os usuarios que deseja gerenciar, os funcionarios, os investidores, os sócios.
+
+Podendo ser feita para pessoa fisica e jurídica.
+
+Atividades exclusivas de um catador -> Auditoria, Pericias Contabeis.
+
+Coleta os dados 
+Registro de dados e processamento
+relatorios
+tomada de decisão
+
+Balanço Patrimonial
+Ativos -- dinheiro
+
+Circulante 
+ - Disponivel
+ - contas a receber
+ - estoques
+ - investimentos temporários
+ - despesas do exercicio seguinte (material de escritorio)
+ - deduções do circulante, estivamativa que pode perder
+
+
+Não circulante
+ - RLP (Realizavel a longo prazo): investimentos a receber a mais de 1 ano.
+ - Investimentos: Permanente e Renda (Aplicações em outras companhias, imoveis alugados)
+ - Imobilizado: Permanente (Bens de produção, predios e etc, cadeiras, mesas)
+ - Intangível Permanente e Renda (Bens que a empresa utiliza para o negocio, as marcas por exemplo, patrocinadoras)
+ - Depreciação Acumulada: Cadeiras estragando
+ - Amortização Acumulada: Quando perde um patrocinador
+
+Passivos --
+
+Circulante 
+ - Dividas de curto prazo, emprestimo, contas a pagar
+
+Não Circulante
+ - Contas a longo prazo.
+
+Patrimonio liquido, quantidade investido dos proprietarios, acionistas, alem tambem das somas dos lucros que não foram distribuidos e são usados como reserva, a soma desses 2 equivale o patrimonio liquido.
+
+Situação Financeira
+ - Saber se a empresa paga ou não seus compromissos (Capacidade de Honrar seus compromissos)
+ - Fluxo de caixa.
+ - Capital de giro.
+
+Ativo circulante > passivo circulante : para que consiga cumprir com os compromissos, ou seja valores a receber devem ser maiores que os valores a pagar.
+
+Endividamento
+ - Qualidade boa: devendo 100mil para o avô e não precisa pagar.
+ - Qualidade ruim: devendo 5mil a 160% de juros ao ano
+ - Quantidade de recurso de terceiros, emprestimos.
+ - Endividamentos bem feitos ou mal feitos.
+ - Um equilibrio entre capital de terceiros e capital proprio (Patrimonio Liquido).
+ - E recomendado ter a maior parte da divida a longo prazo.
+
+Situação Economica:
+ - Qual o potencial de gerar riqueza.
+ - Circulação, empresa sem lucro, sem vida.
+ - Na apuração dos resultados espera-se bons lucros.
+
+Apuração de resultados
+ - Saldo de caixa, situação dinâmica (total de receita no ano - despesas do ano)
+ 	superávit - ganhou mais no ano do que gastou
+ 	prejuizo - ficou no prejuizo
+ 	envolve depreciação, entre outros.
+
+
+Despesas
+
+Regime financeiro
+ Despesas: desembolso e pagamento
+ Receita: tudo que entrar no caixa
+
+Regime economico
+ Despesas: Todo sacrificio incorrido para obter vendas 
+ Receita: Receita gerada no período, mesmo não recebida.
+
+Como avaliar se deu lucro?
+
+Demonstração do resultado do exercicio.
+
+Vendas brutas 
+Custos da vendas
+(Vendas brutas - Custos da vendas) = lucro bruto
+Despesas operacionais
+Resultado operacional antes do resultado financeiro 
+Resultado financeiro = Receitas financeiras - despesas financeiras
+Outras recetas e despesas nao operacionais
+Resultado liquido do periodo
