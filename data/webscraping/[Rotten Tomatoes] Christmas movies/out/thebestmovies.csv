@@ -1,0 +1,101 @@
+,Place,Movie Title,Start Year,Tomatometer Score,Directed By
+0,1,Meet Me in St. Louis,1944,1.0,Vincente Minnelli
+1,2,The Shop Around the Corner,1940,0.99,Ernst Lubitsch
+2,3,The Holdovers,2023,0.96,Alexander Payne
+3,4,Tangerine,2015,0.96,Sean Baker
+4,5,Miracle on 34th Street,1947,0.96,George Seaton
+5,6,The Nightmare Before Christmas,1993,0.95,Henry Selick
+6,7,Little Women,2019,0.95,Greta Gerwig
+7,8,Klaus,2019,0.95,Sergio Pablos
+8,9,Carol,2015,0.94,Todd Haynes
+9,10,It's a Wonderful Life,1946,0.94,Frank Capra
+10,11,Die Hard,1988,0.94,John McTiernan
+11,12,The Guardians of the Galaxy Holiday Special,2022,0.94,James Gunn
+12,13,The Apartment,1960,0.93,Billy Wilder
+13,14,Little Women,1994,0.93,Gillian Armstrong
+14,15,Arthur Christmas,2011,0.92,Sarah Smith
+15,16,Tokyo Godfathers,2003,0.92,Satoshi Kon
+16,17,Jingle Jangle: A Christmas Journey,2020,0.9,David E. Talbert
+17,18,Rare Exports: A Christmas Tale,2010,0.89,Jalmari Helander
+18,19,A Christmas Story,1983,0.89,Bob Clark
+19,20,Edward Scissorhands,1990,0.89,Tim Burton
+20,21,Better Watch Out,2016,0.89,Chris Peckover
+21,22,Trading Places,1983,0.88,John Landis
+22,23,"Kiss Kiss, Bang Bang",2005,0.86,Shane Black
+23,24,A Christmas Tale,2008,0.86,Arnaud Desplechin
+24,25,Gremlins,1984,0.86,Joe Dante
+25,26,Elf,2003,0.85,Jon Favreau
+26,27,Happiest Season,2020,0.82,Clea Duvall
+27,28,Batman Returns,1992,0.81,Tim Burton
+28,29,While You Were Sleeping,1995,0.81,Jon Turteltaub
+29,30,The Man Who Invented Christmas,2017,0.79,Bharat Nalluri
+30,31,A Christmas Story Christmas,2022,0.79,Clay Kaytis
+31,32,Bad Santa,2003,0.78,Terry Zwigoff
+32,33,Anna and the Apocalypse,2017,0.77,John McPhail
+33,34,The Muppet Christmas Carol,1992,0.77,Brian Henson
+34,35,Christmas Bloody Christmas,2022,0.77,Joe Begos
+35,36,White Christmas,1954,0.77,Michael Curtiz
+36,37,Happy Christmas,2014,0.76,Joe Swanberg
+37,38,LEGO Star Wars Holiday Special,2020,0.75,Ken Cunningham
+38,39,Merry Christmas,2005,0.74,Christian Carion
+39,40,The Ref,1994,0.73,Ted Demme
+40,41,The Santa Clause,1994,0.73,John Pasquin
+41,42,How the Grinch Stole Christmas,1967,1.0,Chuck Jones
+42,43,Holiday Inn,1942,1.0,Mark Sandrich
+43,44,March of the Wooden Soldiers,1934,1.0,Gus Meins
+44,45,Remember the Night,1940,1.0,Mitchell Leisen
+45,46,Emmet Otter's Jug-Band Christmas,1977,1.0,Jim Henson
+46,47,Mickey's Christmas Carol,1983,1.0,Burny Mattinson
+47,48,Alien Xmas,2020,1.0,Stephen Chiodo
+48,49,Santa Camp,2022,1.0,Nick Sweeney
+49,50,Rudolph the Red-Nosed Reindeer,1964,0.95,Maury Laws
+50,51,Santa Claus Is Comin' to Town,1970,0.93,Jules Bass
+51,52,White Reindeer,2013,0.9,Zach Clark
+52,53,The Year Without a Santa Claus,1974,0.9,Jules Bass
+53,54,Christmas in Connecticut,1945,0.89,Peter Godfrey
+54,55,The Retaliators,2021,0.88,Bridget Smith
+55,56,A Charlie Brown Christmas,1965,0.86,Bill Melendez
+56,57,A Christmas Carol,1951,0.86,Brian Desmond Hurst
+57,58,The Bishop's Wife,1947,0.85,Henry Koster
+58,59,8-Bit Christmas,2021,0.84,Michael Dowse
+59,60,A Boy Called Christmas,2021,0.84,Gil Kenan
+60,61,A Christmas Horror Story,2015,0.83,Grant Harvey
+61,62,It's a Very Merry Muppet Christmas Movie,2002,0.82,Kirk R. Thatcher
+62,63,Let It Snow,2019,0.81,Luke Snellin
+63,64,Last Train to Christmas,2021,0.8,Julian Kemp
+64,65,Get Santa,2014,0.79,Christopher Smith
+65,66,The Little Drummer Boy,1968,0.75,Jules Bass
+66,67,Violent Night,2022,0.74,Tommy Wirkola
+67,68,A Castle for Christmas,2021,0.74,Mary Lambert
+68,69,Frosty the Snowman,1969,0.73,Jules Bass
+69,70,A Christmas Prince,2017,0.73,Alex Zamm
+70,71,Black Christmas,1974,0.72,Bob Clark
+71,72,Something from Tiffany's,2022,0.7,Daryl Wein
+72,73,Spirited,2022,0.71,Sean Anders
+73,74,The Best Man Holiday,2013,0.7,Malcolm D. Lee
+74,75,National Lampoon's Christmas Vacation,1989,0.7,Jeremiah S. Chechik
+75,76,The Noel Diary,2022,0.69,Charles Shyer
+76,77,Scrooged,1988,0.71,Richard Donner
+77,78,The Night Before,2015,0.68,Jonathan Levine
+78,79,The Christmas Chronicles,2018,0.68,Clay Kaytis
+79,80,A Very Harold & Kumar Christmas,2011,0.68,Todd Strauss-Schulson
+80,81,A Very Murray Christmas,2015,0.68,Sofia Coppola
+81,82,Godmothered,2020,0.68,Sharon Maguire
+82,83,Single All the Way,2021,0.68,Michael Mayer
+83,84,Prancer,1989,0.67,John D. Hancock
+84,85,The Knight Before Christmas,2019,0.67,Monika Mitchell
+85,86,The Princess Switch,2018,0.67,Mike Rohl
+86,87,Detective Knight: Redemption,2022,0.67,Edward Drake
+87,88,Home Alone,1990,0.65,Chris Columbus
+88,89,Krampus,2015,0.66,Michael Dougherty
+89,90,Silent Night,2021,0.66,Camille Griffin
+90,91,The Christmas Chronicles 2,2020,0.65,Chris Columbus
+91,92,Christmas With You,2022,0.65,Gabriela Tagliavini
+92,93,Love Actually,2003,0.64,Richard Curtis
+93,94,Dolly Parton's Christmas on the Square,2020,0.64,Debbie Allen
+94,95,Your Christmas or Mine?,2022,0.63,Jim O'Hanlon
+95,96,The Preacher's Wife,1996,0.62,Penny Marshall
+96,97,Falling for Christmas,2022,0.62,Janeen Damian
+97,98,Miracle on 34th Street,1994,0.6,Les Mayfield
+98,99,A California Christmas,2020,0.6,Shaun Paul Piccinino
+99,100,Dr. Seuss' The Grinch,2018,0.59,Scott Mosier
