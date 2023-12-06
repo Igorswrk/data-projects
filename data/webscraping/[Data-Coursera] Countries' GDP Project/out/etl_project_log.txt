@@ -8,3 +8,13 @@
 2023-Dec-06-17:49:11,Server Connection Closed
 2023-Dec-06-17:49:11,Done!
 
+2023-Dec-06-17:50:58,starting data extract
+2023-Dec-06-17:50:58,extract table of countries by GDP
+2023-Dec-06-17:50:59,transform data
+2023-Dec-06-17:50:59,loading data into json
+2023-Dec-06-17:50:59,creating database ./out/World_Economies.db
+2023-Dec-06-17:50:59,creating table Countries_by_GDP
+2023-Dec-06-17:50:59,returning countries required
+2023-Dec-06-17:50:59,Server Connection Closed
+2023-Dec-06-17:50:59,Done!
+
