@@ -95,6 +95,8 @@ while True:
     query_output = query_db(query)
     print(query_output)
 
+    log("Server Connection Closed")
     close_db(conn)
+
     log("Done!\n")
     time.sleep(30)
