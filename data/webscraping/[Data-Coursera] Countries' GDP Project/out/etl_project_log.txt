@@ -1,0 +1,9 @@
+2023-Dec-06-17:39:35,starting data extract
+2023-Dec-06-17:39:35,extract table of countries by GDP
+2023-Dec-06-17:39:37,transform data
+2023-Dec-06-17:39:37,loading data into json
+2023-Dec-06-17:39:37,creating database ./out/World_Economies.db
+2023-Dec-06-17:39:37,creating table Countries_by_GDP
+2023-Dec-06-17:39:37,returning countries required
+2023-Dec-06-17:39:37,Done!
+
