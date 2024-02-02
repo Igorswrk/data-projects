@@ -1,0 +1,35 @@
+{% load static %}
+
+<html lang="en">
+    <head>
+        <title>Santi.</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;800&family=Single+Day&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href={% url 'movie'%}> Movie Reviews </a></li>
+                <li><a href={% url 'serie'%}> Serie Reviews </a></li>
+                <li><a href={% url 'book'%}> Book Reviews </a></li>
+            </ul>
+        </nav>
+        <header>
+            <h1><a href={% url 'home'%}> Santi.Reviews </a></h1>
+        </header>
+        <div id='content'>
+            {% block content %}
+            
+            {% endblock content %}            
+        </div>
+        <footer>
+            <ul>
+                <li> Github </li>
+                <li> Instagram </li>
+                <li> Linkedin </li>
+                <li> Email </li>
+            </ul>
+        </footer>
+    </body>
+</html>
