@@ -39,13 +39,13 @@ class ReviewCreateView(CreateView):
     model = Review
     template_name = 'review_new.html'
     fields = ['title', 'rating', 'video_review', 'text_review']
-
+    success_url = reverse_lazy('home')
 
 class ReviewUpdateView(UpdateView):
     model = Review
     template_name = 'review_edit.html'
     fields = ['title', 'rating', 'video_review', 'text_review']
-
+    success_url = reverse_lazy('home')
 
 class ReviewDeleteView(DeleteView):
     model = Review
