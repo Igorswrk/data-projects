@@ -2,8 +2,23 @@
 
 {% load static %}
 
+
 {% block content %}
-    <h2>
-        movies
-    </h2>
+
+{% for movie in movies %}
+
+   <h1> {{movie.Title}} </h1>
+   <p> {{movie.Director}} </p>
+   <p> {{movie.Year}} </p>
+   <p> {{movie.Rating}} </p>
+
+	TODO: fix it.
+   	{% if review %}
+		<p><a href={ % url 'review_detail' title=movie.Title % } >Review</a></p> 
+	{% else %}
+		<p> Não tem Review </p>
+	{% endif %}
+
+{% endfor %}
+
 {% endblock content %}
