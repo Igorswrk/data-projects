@@ -1,5 +1,0 @@
-{
-    "[django-html]": {
-        "editor.defaultFormatter": "shamanu4.django-intellisense"
-    }
-}
