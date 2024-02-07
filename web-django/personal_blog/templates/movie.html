@@ -7,18 +7,16 @@
 
 {% for movie in movies %}
 
-   <h1> {{movie.Title}} </h1>
-   <p> {{movie.Director}} </p>
-   <p> {{movie.Year}} </p>
-   <p> {{movie.Rating}} </p>
+    <h1> {{movie.movie_title}} </h1>
+    <p> {{movie.movie_director}} </p>
+    <p> {{movie.movie_year}} </p>
+    <p> {{movie.movie_rating}} </p>
 
-	TODO: fix it.
-   	{% if review %}
-		<p><a href={ % url 'review_detail' title=movie.Title % } >Review</a></p> 
-	{% else %}
-		<p> Não tem Review </p>
-	{% endif %}
+    <p><a href="{% url 'review_detail' pk=movie.pk %}">Ver Revisão</a></p>
+
+	{% comment %} 
+		TODO: fix it. 
+	{% endcomment %}
 
 {% endfor %}
-
 {% endblock content %}

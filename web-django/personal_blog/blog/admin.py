@@ -8,7 +8,13 @@ from .models import (
 
 # Register your models here.
 
-admin.site.register(Review)
-# admin.site.register(Serie)
-admin.site.register(Movie)
-# admin.site.register(Book)
+class ReviewInline(admin.StackedInline):
+    model = Review
+    extra = 0
+    max_num = 1
+    show_change_link = True
+
+
+@admin.register(Movie)
+class MovieAdmin(admin.ModelAdmin):
+    inlines=[ReviewInline]

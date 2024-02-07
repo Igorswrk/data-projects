@@ -1,5 +1,6 @@
-{% load embed_video_tags %}
 
+
+{% comment %} {% load embed_video_tags %}
 
 {% if review %}
 {% video review.video_review as video_talking %}
@@ -10,3 +11,8 @@
 {% endvideo %}   
 {% endif %}
  
+<p>{{ review.text_review }}</p> 
+{% endcomment %} 
+
+<h1>aloooo</h1>
+<p>{{ movie.movie_title }}</p>
